@@ -3,7 +3,7 @@ package githubTest.test;
 public class Pet {
 
 	public static void main(String[] args) {
-	System.out.println("fsssudsfsdfsfckdddddddd");
+	System.out.println("fsssudsfsdfsfckddddddddddd");
 
 	}
 
