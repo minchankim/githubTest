@@ -7,6 +7,7 @@ public class Pet {
 	System.out.println("뭐지");
 System.out.println("dsfdf");
 System.out.println("또한다");
+System.out.println("재석");
 	}
 
 }
